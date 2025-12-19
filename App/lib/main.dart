@@ -28,7 +28,7 @@ Future<void> main() async {
   Gemini.init(
     apiKey: const String.fromEnvironment(
       'GEMINI_API_KEY',
-      defaultValue: 'AIzaSyCMdybWPrh8J3cAu62vIyfFbB6GO3jtaRo',
+      defaultValue: 'ENTER YOUR GEMINI',
     ),
   );
   _configureHighRefresh();
