@@ -40,7 +40,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyA9K-1Z8E7yBJ7X_tAQfsOjpd1J2xTQHO4',
+    apiKey: 'API KEY',
     appId: '1:1081985017914:web:83fac256f617be78b46d03',
     messagingSenderId: '1081985017914',
     projectId: 'sikkim-tourism-a9036',
@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyA2WLlGRGmxCrJbuud3nx8c1aIrvOaN7Cg',
+    apiKey: 'API KEY',
     appId: '1:1081985017914:android:d3556dd54f6b0b7bb46d03',
     messagingSenderId: '1081985017914',
     projectId: 'sikkim-tourism-a9036',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyA0UtTgw_nhwDy5ltURpHNxnCoBcieEKWQ',
+    apiKey: 'API KEY',
     appId: '1:1081985017914:ios:6310a4371aea9d1bb46d03',
     messagingSenderId: '1081985017914',
     projectId: 'sikkim-tourism-a9036',
@@ -67,7 +67,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyA0UtTgw_nhwDy5ltURpHNxnCoBcieEKWQ',
+    apiKey: 'API KEY',
     appId: '1:1081985017914:ios:6310a4371aea9d1bb46d03',
     messagingSenderId: '1081985017914',
     projectId: 'sikkim-tourism-a9036',
@@ -76,7 +76,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyA9K-1Z8E7yBJ7X_tAQfsOjpd1J2xTQHO4',
+    apiKey: 'API KEY',
     appId: '1:1081985017914:web:2547022ed77a224cb46d03',
     messagingSenderId: '1081985017914',
     projectId: 'sikkim-tourism-a9036',
